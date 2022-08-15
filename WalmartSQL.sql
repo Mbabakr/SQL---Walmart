@@ -1,3 +1,7 @@
+/*
+From WalmartCalls table, write a SQL to find out callers
+whose first and last call was to the same person on a given day?
+*/
 CREATE TABLE WalmartCalls(
     CalleName varchar(255), 
     RecipientName varchar(255),
